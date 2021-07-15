@@ -24,13 +24,3 @@
 
 
 
-<<<<<<< HEAD
-=======
-A shitty ai that generates dream fanfiction.
-
-
-a trained model is provided
-
-
-fuck you.
->>>>>>> d72fca2509883445c576084b4a4c3310982f2b94
